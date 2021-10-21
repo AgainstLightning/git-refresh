@@ -1,1 +1,1 @@
-Refreshing/testing git for personal benefit
+Refreshing/testing git for personal benefit.
